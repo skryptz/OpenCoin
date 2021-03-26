@@ -1,3 +1,3 @@
 # OpenCoin
 
-# Test branch of OpenZeppelin
+### Test branch of OpenZeppelin
