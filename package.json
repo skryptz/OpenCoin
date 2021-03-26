@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "chai": "^4.3.4",
+    "ganache-cli": "^6.12.2"
+  },
+  "dependencies": {
+    "fs-extra": "^9.1.0"
+  }
+}
